@@ -1,0 +1,7 @@
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\bin\Debug\CircleCylinder.exe.config
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\bin\Debug\CircleCylinder.exe
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\bin\Debug\CircleCylinder.pdb
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.csproj.AssemblyReference.cache
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.csproj.CoreCompileInputs.cache
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.exe
+D:\OOP-WEEKS\OOPweek - 8\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.pdb

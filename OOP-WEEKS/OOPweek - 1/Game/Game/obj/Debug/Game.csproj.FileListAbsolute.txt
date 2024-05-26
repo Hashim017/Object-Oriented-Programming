@@ -1,0 +1,20 @@
+D:\C#\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\C#\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\C#\Game\Game\bin\Debug\Game.exe.config
+D:\C#\Game\Game\bin\Debug\Game.exe
+D:\C#\Game\Game\bin\Debug\Game.pdb
+D:\C#\Game\Game\bin\Debug\EZInput.dll
+D:\C#\Game\Game\bin\Debug\EZInput.xml
+D:\C#\Game\Game\obj\Debug\Game.csproj.CopyComplete
+D:\C#\Game\Game\obj\Debug\Game.exe
+D:\C#\Game\Game\obj\Debug\Game.pdb
+D:\OOPweek -1\Game\Game\bin\Debug\Game.exe.config
+D:\OOPweek -1\Game\Game\bin\Debug\Game.exe
+D:\OOPweek -1\Game\Game\bin\Debug\Game.pdb
+D:\OOPweek -1\Game\Game\bin\Debug\EZInput.dll
+D:\OOPweek -1\Game\Game\bin\Debug\EZInput.xml
+D:\OOPweek -1\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\OOPweek -1\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\OOPweek -1\Game\Game\obj\Debug\Game.csproj.CopyComplete
+D:\OOPweek -1\Game\Game\obj\Debug\Game.exe
+D:\OOPweek -1\Game\Game\obj\Debug\Game.pdb

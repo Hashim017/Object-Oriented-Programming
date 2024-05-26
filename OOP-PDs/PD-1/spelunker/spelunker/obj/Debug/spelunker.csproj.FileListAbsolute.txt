@@ -1,0 +1,10 @@
+C:\Users\Hashim\source\repos\spelunker\spelunker\obj\Debug\spelunker.csproj.AssemblyReference.cache
+C:\Users\Hashim\source\repos\spelunker\spelunker\obj\Debug\spelunker.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\source\repos\spelunker\spelunker\bin\Debug\spelunker.exe.config
+C:\Users\Hashim\source\repos\spelunker\spelunker\bin\Debug\spelunker.exe
+C:\Users\Hashim\source\repos\spelunker\spelunker\bin\Debug\spelunker.pdb
+C:\Users\Hashim\source\repos\spelunker\spelunker\bin\Debug\EZInput.dll
+C:\Users\Hashim\source\repos\spelunker\spelunker\bin\Debug\EZInput.xml
+C:\Users\Hashim\source\repos\spelunker\spelunker\obj\Debug\spelunker.csproj.CopyComplete
+C:\Users\Hashim\source\repos\spelunker\spelunker\obj\Debug\spelunker.exe
+C:\Users\Hashim\source\repos\spelunker\spelunker\obj\Debug\spelunker.pdb

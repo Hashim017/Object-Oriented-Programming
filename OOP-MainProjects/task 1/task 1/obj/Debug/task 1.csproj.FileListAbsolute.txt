@@ -1,0 +1,21 @@
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\bin\Debug\task 1.exe.config
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\bin\Debug\task 1.exe
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\bin\Debug\task 1.pdb
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.exe
+D:\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.pdb
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\bin\Debug\task 1.exe.config
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\bin\Debug\task 1.exe
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\bin\Debug\task 1.pdb
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.exe
+D:\Second Semester\OOP-WEEKS\OOPweek - 6\task 1\task 1\obj\Debug\task 1.pdb
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\bin\Debug\task 1.exe.config
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\bin\Debug\task 1.exe
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\obj\Debug\task 1.exe
+C:\Users\Hashim\OneDrive\Desktop\task 1\task 1\obj\Debug\task 1.pdb

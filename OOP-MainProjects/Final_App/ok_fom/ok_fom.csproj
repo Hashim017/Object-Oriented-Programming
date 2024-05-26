@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA8791E1-21DA-49FD-BE8D-7AC03FE0963F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ok_fom</RootNamespace>
+    <AssemblyName>ok_fom</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI_FORMS\AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\AddFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\AddFlight.Designer.cs">
+      <DependentUpon>AddFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\AdminBL.cs" />
+    <Compile Include="DL\AdminDL.cs" />
+    <Compile Include="UI_FORMS\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\CustomerBL.cs" />
+    <Compile Include="DL\CustomerDL.cs" />
+    <Compile Include="UI_FORMS\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\AdminMenu.Designer.cs">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\CustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\CustomerMenu.Designer.cs">
+      <DependentUpon>CustomerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\FlightsDataBL.cs" />
+    <Compile Include="DL\FlightsDataDL.cs" />
+    <Compile Include="UI_FORMS\Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\LoadingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\LoadingPage.Designer.cs">
+      <DependentUpon>LoadingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\LoginMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\LoginMenu.Designer.cs">
+      <DependentUpon>LoginMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\MainPage.Designer.cs">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\PersonBL.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI_FORMS\RefundTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\RefundTickets.Designer.cs">
+      <DependentUpon>RefundTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\RemoveFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\RemoveFlight.Designer.cs">
+      <DependentUpon>RemoveFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\SearchFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\SearchFlight.Designer.cs">
+      <DependentUpon>SearchFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\SignUpMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\SignUpMenu.Designer.cs">
+      <DependentUpon>SignUpMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\UpdateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\UpdateAdmin.Designer.cs">
+      <DependentUpon>UpdateAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\UpdateFlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\UpdateFlight.Designer.cs">
+      <DependentUpon>UpdateFlight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\UserFlightsBL.cs" />
+    <Compile Include="UI_FORMS\ViewAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\ViewAdmins.Designer.cs">
+      <DependentUpon>ViewAdmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\ViewFlights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\ViewFlights.Designer.cs">
+      <DependentUpon>ViewFlights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI_FORMS\ViewUserFlights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI_FORMS\ViewUserFlights.Designer.cs">
+      <DependentUpon>ViewUserFlights.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI_FORMS\AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\AddFlight.resx">
+      <DependentUpon>AddFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\AdminMenu.resx">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\CustomerMenu.resx">
+      <DependentUpon>CustomerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\LoadingPage.resx">
+      <DependentUpon>LoadingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\LoginMenu.resx">
+      <DependentUpon>LoginMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\MainPage.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI_FORMS\RefundTickets.resx">
+      <DependentUpon>RefundTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\RemoveFlight.resx">
+      <DependentUpon>RemoveFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\SearchFlight.resx">
+      <DependentUpon>SearchFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\SignUpMenu.resx">
+      <DependentUpon>SignUpMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\UpdateAdmin.resx">
+      <DependentUpon>UpdateAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\UpdateFlight.resx">
+      <DependentUpon>UpdateFlight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\ViewAdmins.resx">
+      <DependentUpon>ViewAdmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\ViewFlights.resx">
+      <DependentUpon>ViewFlights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI_FORMS\ViewUserFlights.resx">
+      <DependentUpon>ViewUserFlights.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-airplane-icon-18-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2275920-middle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2275920-middle-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\description-white-plane-icon-2-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOMOTEX-USA19-icon-plane-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-aLirplane-icon-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-airplane-icon-27-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-aLirplane-icon-22-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-passenger-jet-taking-off-from-a-runway-image_2505734.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane-lights-dark-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aircraft-airplane-aviation-black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aircraft-airplane-aviation-black1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aircraft-airplane-aviation-black2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane-lights-dark-wallpaper-preview1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane-lights-dark-wallpaper-preview2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane-lights-dark-wallpaper-preview3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane-sky-black-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_icon-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\airplane-lights-dark-wallpaper-preview4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane-sky-black-white1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-login-12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refund-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-removebg-preview %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lund lodinfsdfdsfsdfsdf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadingPage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_2165.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_2163.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

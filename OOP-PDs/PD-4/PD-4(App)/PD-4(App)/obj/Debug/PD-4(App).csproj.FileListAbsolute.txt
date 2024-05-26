@@ -1,0 +1,7 @@
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\bin\Debug\PD-4(App).exe.config
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\bin\Debug\PD-4(App).exe
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\bin\Debug\PD-4(App).pdb
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\obj\Debug\PD-4(App).csproj.AssemblyReference.cache
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\obj\Debug\PD-4(App).csproj.CoreCompileInputs.cache
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\obj\Debug\PD-4(App).exe
+D:\OOP-PDs\PD-4\PD-4(App)\PD-4(App)\obj\Debug\PD-4(App).pdb

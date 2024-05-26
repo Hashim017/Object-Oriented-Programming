@@ -1,0 +1,14 @@
+D:\OOPweek - 5\task-1\task-1\obj\Debug\task-1.csproj.AssemblyReference.cache
+D:\OOPweek - 5\task-1\task-1\obj\Debug\task-1.csproj.CoreCompileInputs.cache
+D:\OOPweek - 5\task-1\task-1\bin\Debug\task-1.exe.config
+D:\OOPweek - 5\task-1\task-1\bin\Debug\task-1.exe
+D:\OOPweek - 5\task-1\task-1\bin\Debug\task-1.pdb
+D:\OOPweek - 5\task-1\task-1\obj\Debug\task-1.exe
+D:\OOPweek - 5\task-1\task-1\obj\Debug\task-1.pdb
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\bin\Debug\task-1.exe.config
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\bin\Debug\task-1.exe
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\bin\Debug\task-1.pdb
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\obj\Debug\task-1.csproj.AssemblyReference.cache
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\obj\Debug\task-1.csproj.CoreCompileInputs.cache
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\obj\Debug\task-1.exe
+D:\Second Semester\OOP-WEEKS\OOPweek - 4\task-1\task-1\obj\Debug\task-1.pdb

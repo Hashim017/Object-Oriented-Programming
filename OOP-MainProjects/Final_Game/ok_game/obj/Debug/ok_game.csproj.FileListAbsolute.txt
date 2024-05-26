@@ -1,0 +1,38 @@
+D:\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.AssemblyReference.cache
+D:\Hashim\ok_game\ok_game\obj\Debug\ok_game.Form1.resources
+D:\Hashim\ok_game\ok_game\obj\Debug\ok_game.Properties.Resources.resources
+D:\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.GenerateResource.cache
+D:\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.CoreCompileInputs.cache
+D:\Second Semester\Hashim\ok_game\ok_game\bin\Debug\ok_game.exe.config
+D:\Second Semester\Hashim\ok_game\ok_game\bin\Debug\ok_game.exe
+D:\Second Semester\Hashim\ok_game\ok_game\bin\Debug\ok_game.pdb
+D:\Second Semester\Hashim\ok_game\ok_game\bin\Debug\EZInput.dll
+D:\Second Semester\Hashim\ok_game\ok_game\bin\Debug\EZInput.xml
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.AssemblyReference.cache
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.Properties.Resources.resources
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.GenerateResource.cache
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.CoreCompileInputs.cache
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.csproj.CopyComplete
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.exe
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.pdb
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.Level2.resources
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.Level1.resources
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.LoadingPage.resources
+D:\Second Semester\Hashim\ok_game\ok_game\obj\Debug\ok_game.MainPage.resources
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\bin\Debug\ok_game.exe.config
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\bin\Debug\ok_game.exe
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\bin\Debug\ok_game.pdb
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\bin\Debug\EZInput.dll
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\bin\Debug\EZInput.xml
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.csproj.AssemblyReference.cache
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.Level2.resources
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.Level1.resources
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.LoadingPage.resources
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.MainPage.resources
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.Properties.Resources.resources
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.csproj.GenerateResource.cache
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.csproj.CopyComplete
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.exe
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.pdb
+C:\Users\Hashim\OneDrive\Desktop\ok_game\ok_game\obj\Debug\ok_game.Instructions.resources

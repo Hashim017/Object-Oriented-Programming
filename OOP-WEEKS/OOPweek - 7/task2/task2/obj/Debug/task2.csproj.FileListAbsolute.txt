@@ -1,0 +1,7 @@
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\bin\Debug\task2.exe.config
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\bin\Debug\task2.exe
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\bin\Debug\task2.pdb
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\obj\Debug\task2.exe
+D:\Second Semester\OOP-WEEKS\OOPweek - 7\task2\task2\obj\Debug\task2.pdb

@@ -1,0 +1,7 @@
+D:\OOP-week7\Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\OOP-week7\Shapes\Shapes\bin\Debug\Shapes.exe
+D:\OOP-week7\Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\OOP-week7\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+D:\OOP-week7\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\OOP-week7\Shapes\Shapes\obj\Debug\Shapes.exe
+D:\OOP-week7\Shapes\Shapes\obj\Debug\Shapes.pdb

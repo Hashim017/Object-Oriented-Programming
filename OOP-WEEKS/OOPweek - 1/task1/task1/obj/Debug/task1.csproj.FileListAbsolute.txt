@@ -1,0 +1,7 @@
+D:\C#\task1\task1\bin\Debug\task1.exe.config
+D:\C#\task1\task1\bin\Debug\task1.exe
+D:\C#\task1\task1\bin\Debug\task1.pdb
+D:\C#\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\C#\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\C#\task1\task1\obj\Debug\task1.exe
+D:\C#\task1\task1\obj\Debug\task1.pdb

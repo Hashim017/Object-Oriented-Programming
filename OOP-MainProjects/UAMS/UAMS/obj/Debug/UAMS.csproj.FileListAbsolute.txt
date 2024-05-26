@@ -1,0 +1,21 @@
+D:\UAMS\UAMS\bin\Debug\UAMS.exe.config
+D:\UAMS\UAMS\bin\Debug\UAMS.exe
+D:\UAMS\UAMS\bin\Debug\UAMS.pdb
+D:\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\UAMS\UAMS\obj\Debug\UAMS.exe
+D:\UAMS\UAMS\obj\Debug\UAMS.pdb
+D:\Second Semester\OOP-PDs\UAMS\UAMS\bin\Debug\UAMS.exe.config
+D:\Second Semester\OOP-PDs\UAMS\UAMS\bin\Debug\UAMS.exe
+D:\Second Semester\OOP-PDs\UAMS\UAMS\bin\Debug\UAMS.pdb
+D:\Second Semester\OOP-PDs\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Second Semester\OOP-PDs\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Second Semester\OOP-PDs\UAMS\UAMS\obj\Debug\UAMS.exe
+D:\Second Semester\OOP-PDs\UAMS\UAMS\obj\Debug\UAMS.pdb
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\bin\Debug\UAMS.exe.config
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\bin\Debug\UAMS.exe
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\bin\Debug\UAMS.pdb
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\obj\Debug\UAMS.exe
+C:\Users\Hashim\OneDrive\Desktop\UAMS\UAMS\obj\Debug\UAMS.pdb

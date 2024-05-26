@@ -1,0 +1,10 @@
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\bin\Debug\PD-4(Game).exe.config
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\bin\Debug\PD-4(Game).exe
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\bin\Debug\PD-4(Game).pdb
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\bin\Debug\EZInput.dll
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\bin\Debug\EZInput.xml
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\obj\Debug\PD-4(Game).csproj.AssemblyReference.cache
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\obj\Debug\PD-4(Game).csproj.CoreCompileInputs.cache
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\obj\Debug\PD-4(Game).csproj.CopyComplete
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\obj\Debug\PD-4(Game).exe
+D:\OOP-PDs\PD-4\PD-4(Game)\PD-4(Game)\obj\Debug\PD-4(Game).pdb

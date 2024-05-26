@@ -1,0 +1,7 @@
+D:\OOP-week7\CardDeck\CardDeck\obj\Debug\CardDeck.csproj.AssemblyReference.cache
+D:\OOP-week7\CardDeck\CardDeck\obj\Debug\CardDeck.csproj.CoreCompileInputs.cache
+D:\OOP-week7\CardDeck\CardDeck\bin\Debug\CardDeck.exe.config
+D:\OOP-week7\CardDeck\CardDeck\bin\Debug\CardDeck.exe
+D:\OOP-week7\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
+D:\OOP-week7\CardDeck\CardDeck\obj\Debug\CardDeck.exe
+D:\OOP-week7\CardDeck\CardDeck\obj\Debug\CardDeck.pdb
