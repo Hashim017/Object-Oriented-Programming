@@ -77,18 +77,18 @@ Final_Game/ ├── Core/ # Game engine components │ ├── Game.cs # Mai
 - 2GB RAM
 
 ## Controls
-Arrow Keys / WASD - Movement
-Space - Action/Jump
-ESC - Menu/Pause
-Enter - Confirm
+- Arrow Keys / WASD - Movement
+- Space - Action/Jump
+- ESC - Menu/Pause
+- Enter - Confirm
 
 ## Game Flow
-Main Menu
-Difficulty Selection
-Level 1 Start
-Progressive Levels
-Boss Battle
-Victory/Game Over
+- Main Menu
+- Difficulty Selection
+- Level 1 Start
+- Progressive Levels
+- Boss Battle
+- Victory/Game Over
 
 ## Development Highlights
 ✓ Professional game architecture ✓ Scalable entity system ✓ Advanced AI implementation ✓ Event-driven interactions ✓ Efficient resource management ✓ Clean code practices
